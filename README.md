@@ -1,3 +1,1 @@
-In this project i going to make a page using the html tags!.
-
-I will make a page of meals recipes!.
+In this project i going to make a page using the html tags like img h1 p, the base of the page going to be a recipes page
